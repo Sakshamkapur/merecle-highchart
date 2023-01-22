@@ -1,4 +1,3 @@
-import './App.css';
 import EngagementMessagesOverTime from './components/EngagementMessagesOverTime';
 
 function App() {
